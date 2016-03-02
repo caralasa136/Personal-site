@@ -1,0 +1,36 @@
+header
+{
+ margin-right:0px;
+ background-color:#303042;
+ color: #FFF;
+ text-align:center;  
+}
+nav
+{
+	color:#FFF;
+	background-color:#303042;
+}
+main
+{
+	color:#FFF;
+	background-color:#303042;
+}
+h3
+{
+	text-align:center;
+}
+body
+{
+ color:#FFF;
+}
+footer
+{
+ margin-right:0px;
+ padding:5px;
+ text-align:center;
+ background-color:#101042;
+ color:#FFF;
+ font-size:14px;
+}
+
+
